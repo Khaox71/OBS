@@ -1,0 +1,129 @@
+04:53:09.577: CPU Name: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+04:53:09.577: CPU Speed: 2592MHz
+04:53:09.578: Physical Cores: 4, Logical Cores: 8
+04:53:09.578: Physical Memory: 16336MB Total, 6462MB Free
+04:53:09.578: Windows Version: 10.0 Build 17763 (revision: 195; 64-bit)
+04:53:09.578: Running as administrator: false
+04:53:09.578: Aero is Enabled (Aero is always on for windows 8 and above)
+04:53:09.578: Windows 10 Gaming Features:
+04:53:09.578: 	Game DVR: On
+04:53:09.581: Sec. Software Status:
+04:53:09.584: 	Avira Antivirus: enabled (AV)
+04:53:09.585: 	Windows Defender Antivirus: disabled (AV)
+04:53:09.586: 	Windows Firewall: enabled (FW)
+04:53:09.586: 	Avira Antivirus: enabled (ASW)
+04:53:09.586: 	Windows Defender Antivirus: disabled (ASW)
+04:53:09.587: Browser Hardware Acceleration: true
+04:53:09.587: Portable mode: false
+04:53:09.810: OBS 22.0.2 (64-bit, windows)
+04:53:09.810: ---------------------------------
+04:53:09.821: ---------------------------------
+04:53:09.821: audio settings reset:
+04:53:09.821: 	samples per sec: 44100
+04:53:09.821: 	speakers:        2
+04:53:09.830: ---------------------------------
+04:53:09.830: Initializing D3D11...
+04:53:09.830: Available Video Adapters: 
+04:53:09.833: 	Adapter 1: NVIDIA GeForce GTX 1070
+04:53:09.833: 	  Dedicated VRAM: 4178575360
+04:53:09.833: 	  Shared VRAM:    4270211072
+04:53:09.833: 	  output 1: pos={0, 0}, size={1920, 1080}, attached=true
+04:53:09.833: 	  output 2: pos={1920, 0}, size={1920, 1200}, attached=true
+04:53:09.837: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 (0)
+04:53:09.920: D3D11 loaded successfully, feature level used: 45056
+04:53:11.283: ---------------------------------
+04:53:11.283: video settings reset:
+04:53:11.283: 	base resolution:   1920x1080
+04:53:11.283: 	output resolution: 1280x720
+04:53:11.283: 	downscale filter:  Bicubic
+04:53:11.283: 	fps:               30/1
+04:53:11.283: 	format:            NV12
+04:53:11.283: 	YUV mode:          601/Partial
+04:53:11.286: Audio monitoring device:
+04:53:11.286: 	name: Default
+04:53:11.286: 	id: default
+04:53:11.286: ---------------------------------
+04:53:11.295: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+04:53:11.307: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+04:53:11.398: [AMF] AMF Test failed due to one or more errors.
+04:53:11.398: Failed to initialize module 'enc-amf.dll'
+04:53:11.628: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libcef.dll' not found, loading of module failed
+04:53:11.635: LoadLibrary failed for '../../obs-plugins/64bit/libEGL.dll': The specified procedure could not be found.
+04:53:11.635:  (127)
+04:53:11.635: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+04:53:11.647: Required module function 'obs_module_load' in module '../../obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+04:53:11.667: [obs-browser]: Version 2.1.5
+04:53:11.695: NVENC supported
+04:53:11.948: Couldn't find VLC installation, VLC video source disabled
+04:53:11.976: No blackmagic support
+04:53:12.016: ---------------------------------
+04:53:12.016:   Loaded Modules:
+04:53:12.016:     win-wasapi.dll
+04:53:12.016:     win-mf.dll
+04:53:12.016:     win-dshow.dll
+04:53:12.016:     win-decklink.dll
+04:53:12.016:     win-capture.dll
+04:53:12.016:     vlc-video.dll
+04:53:12.016:     text-freetype2.dll
+04:53:12.016:     rtmp-services.dll
+04:53:12.016:     obs-x264.dll
+04:53:12.016:     obs-vst.dll
+04:53:12.016:     obs-transitions.dll
+04:53:12.016:     obs-text.dll
+04:53:12.016:     obs-qsv11.dll
+04:53:12.016:     obs-outputs.dll
+04:53:12.016:     obs-filters.dll
+04:53:12.016:     obs-ffmpeg.dll
+04:53:12.016:     obs-browser.dll
+04:53:12.016:     image-source.dll
+04:53:12.016:     frontend-tools.dll
+04:53:12.016:     enc-amf.dll
+04:53:12.016:     coreaudio-encoder.dll
+04:53:12.016: ---------------------------------
+04:53:12.016: ==== Startup complete ===============================================
+04:53:12.017: Service '' not found
+04:53:12.022: No scene file found, creating default scene
+04:53:12.023: All scene data cleared
+04:53:12.023: ------------------------------------------------
+04:53:12.090: WASAPI: Device 'Speakers (Realtek High Definition Audio)' initialized
+04:53:12.120: WASAPI: Device 'Microphone (Realtek High Definition Audio)' initialized
+04:53:12.120: Switched to scene 'Scene'
+04:53:12.121: Failed to glob scene collections
+04:53:12.122: CalculateFileHash: Failed to open file 'C:\Users\Travis\AppData\Roaming\obs-studio\updates\manifest.json': 
+04:53:12.161: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds
+04:53:12.730: [rtmp-services plugin] Successfully updated file 'services.json' (version 97)
+04:53:12.733: [rtmp-services plugin] Successfully updated package (version 97)
+04:53:35.478: 
+04:53:35.478: ==== Auto-config wizard testing commencing ======
+
+04:53:35.487: ---------------------------------
+04:53:35.487: video settings reset:
+04:53:35.487: 	base resolution:   1920x1080
+04:53:35.487: 	output resolution: 128x128
+04:53:35.487: 	downscale filter:  Bicubic
+04:53:35.487: 	fps:               60/1
+04:53:35.487: 	format:            NV12
+04:53:35.487: 	YUV mode:          601/Partial
+04:53:35.503: ---------------------------------
+04:53:35.503: [x264 encoder: 'test_x264'] preset: veryfast
+04:53:35.504: [x264 encoder: 'test_x264'] settings:
+04:53:35.504: 	rate_control: CBR
+04:53:35.504: 	bitrate:      6000
+04:53:35.504: 	buffer size:  6000
+04:53:35.504: 	crf:          0
+04:53:35.504: 	fps_num:      60
+04:53:35.504: 	fps_den:      1
+04:53:35.504: 	width:        128
+04:53:35.504: 	height:       128
+04:53:35.504: 	keyint:       120
+04:53:35.504: 
+04:53:35.504: [x264 encoder: 'test_x264'] custom settings: scenecut=0
+04:53:35.511: ---------------------------------
+04:53:35.511: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+04:53:35.511: 
+04:53:35.513: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://live-atl.twitch.tv/app...
+04:53:35.575: [rtmp stream: 'test_stream'] Interface: Killer Wireless-n/a/ac 1535 Wireless Network Adapter (802.11, 866 mbps)
+04:54:00.162: RTMPSockBuf_Fill, remote host closed connection
+04:54:00.162: [rtmp stream: 'test_stream'] Connection to rtmp://live-atl.twitch.tv/app failed: -3
+04:54:00.165: [rtmp stream: 'test_stream'] Connecting to RTMP URL rtmp://live-iad.twitch.tv/app...
+04:54:00.226: [rtmp stream: 'test_stream'] Interface: Killer Wireless-n/a/ac 1535 Wireless Network Adapter (802.11, 866 mbps)
